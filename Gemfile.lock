@@ -103,7 +103,7 @@ GEM
       mini_portile2 (~> 2.1.0)
     pg (0.19.0)
     public_suffix (2.0.5)
-    puma (3.6.2)
+    puma (3.12.6)
     rack (2.0.1)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -220,7 +220,7 @@ DEPENDENCIES
   jquery-rails
   listen (~> 3.0.5)
   pg (~> 0.18)
-  puma (~> 3.0)
+  puma (~> 3.12)
   rack_session_access
   rails (~> 5.0.1)
   rails-controller-testing
